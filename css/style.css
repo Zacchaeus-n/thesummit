@@ -1,5 +1,5 @@
 a {
-  color: #61e97e;
+  color: #616ae9;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -13,11 +13,11 @@ a:hover {
 }
 
 .nav-link:hover {
-  color: #61e97e;
+  color: #616ae9;
 }
 
 .btn {
-  background-color: #61e97e;
+  background-color: #616ae9;
   border-radius: 2px;
   color: #ffffff;
   font-family: "Raleway", sans-serif;
@@ -41,7 +41,7 @@ a:hover {
 }
 
 .activity {
-  border: 1px solid #61e97e;
+  border: 1px solid #0e1a10;
   cursor: pointer;
   text-decoration: none;
 }
